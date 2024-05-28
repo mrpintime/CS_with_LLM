@@ -1,2 +1,2 @@
 # CS_with_LLM
-Implemented Customer Support Agent with LLangChain
+This repo is related to GenAI Course Assignment which is Implementing Customer Support Agent with LLangChain and LLM
